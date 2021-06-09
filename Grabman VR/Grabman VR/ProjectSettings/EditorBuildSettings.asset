@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Scenes/Grabman-Game.unity
+    guid: 78cc3318e6220b643bd41858933ab1be
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 66c4147a6bd3c1f419ff8860cc146236, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3e72152a62fdd794f8722f0e64bf7398, type: 2}

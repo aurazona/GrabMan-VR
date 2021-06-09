@@ -17,7 +17,7 @@ public class GhostMovement : MonoBehaviour
     void Start()
     {
         nav = GetComponent<UnityEngine.AI.NavMeshAgent>();
-        player = GameObject.FindGameObjectWithTag("VRCam").transform;
+        player = GameObject.Find("VRCam").transform;
     }
 
     // Update is called once per frame

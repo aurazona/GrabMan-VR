@@ -8,6 +8,8 @@ TagManager:
   - Gamer
   - Ground
   - Orb
+  - WinTele
+  - Hazard
   layers:
   - Default
   - TransparentFX
